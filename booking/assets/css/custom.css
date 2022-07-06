@@ -1,0 +1,99 @@
+.footer_links {
+  padding: 0;
+}
+.footer_links > li {
+  display: inline-block;
+  margin-right: 10px;
+}
+.thum_img_outer { position: relative;}
+.thum_img_outer a {
+  position: absolute;
+  right: 4px;
+  top: 4px;
+  transiton: all 0.5s ease 0s;
+}
+.thum_img_outer a { display: none;}
+.thum_img_outer:hover a { display: block;}
+#uploadifive-upload_images_single { width: inherit !important; height: inherit !important; cursor: pointer;}
+
+.page-container.horizontal-menu header.navbar .navbar-nav > li ul{
+  display: block !important;
+  z-index:999 !important;
+}
+
+.page-container.horizontal-menu header.navbar .navbar-nav > li:last-child ul li ul {
+  left: inherit;
+  right: 100%;
+}
+
+footer.main div {
+  padding: 0 10px !important;
+}
+
+.filter_members {
+  display: inline-block;
+  margin: 0 3px;
+}
+
+.round_button_grey{
+  width: 30px;
+    height: 30px;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    line-height: 1.428571429;
+    border-radius: 15px !important;
+    background: #343434;
+    opacity: 1 !important;
+}
+
+.round_button_grey{
+  width: 25px;
+    height: 25px;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    line-height: 1.428571429;
+    border-radius: 15px !important;
+    background: #6c6c6c;
+    opacity: 1 !important;
+}
+
+.round_button_red{
+width: 25px;
+    height: 25px;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    line-height: 1.428571429;
+    border-radius: 15px !important;
+    background: #e80c0c;
+    opacity: 1 !important;
+   } 
+.round_button_yellow{    
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    line-height: 1.428571429;
+    border-radius: 15px;
+    background: #e6c31d;
+    opacity: 1 !important;
+  }
+ .round_button_green{   
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    line-height: 1.428571429;
+    border-radius: 15px;
+    background: #16b21a;
+    opacity: 1 !important;
+  }
+  
+  
+  li.parsley-type {
+    color: red;
+}

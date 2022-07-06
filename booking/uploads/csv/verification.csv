@@ -1,0 +1,23 @@
+,Type,Name,Description,Cost
+1,Criminal Check,Criminal Check Premium (5 hours),Criminal check done with a set of electronic fingerprints,120.00
+2,Criminal Check,Criminal Check Standard (2 business days),Criminal check done with a set of electronic fingerprints,57.24
+3,ITC,Comprehensive Credit Check,Consumer credit check to see if the candidate has any listing on his/her name,107.87
+4,ITC,Transunion only,Consumer credit check with Transunion ,34.34
+5,ITC,Compuscan only,Consumer credit check with Compuscan ,34.34
+6,ITC,Experian only,Consumer credit check with Experian,34.34
+7,Identification,ID Verification,To confirm that the ID number provided does in fact belong to the particular individual,12.00
+8,Identification,Passport Verification,To confirm the passport is valid as per the Department of Home Affairs,107.87
+9,Identification,Citizenship Check,To confirm whether or not the candidate has South African citizenship,96.00
+10,Identification,Drivers License,"Verify the validity of the driver license, incl. code and endorsements",60.67
+11,Permits,Work Permits,Verify the validity of permits,72.00
+12,Permits,Permanent Residency Permit,Verify the validity of the permanent/temporary residency permit,107.87
+13,Reference Checks,Reference Check Confirmation,"References from previous employers are verified regarding information such as dates, positions and reasons for resignation",53.93
+14,Reference Checks,Reference Check - standard,Competency based reference with up to 8 competences being confirmed,337.08
+15,Reference Checks,Reference check - executive,Competency based reference with up to 18 competences being confirmed,640.45
+16,Reference Checks,Character reference check,"Reference done on the candidate's character , their responsibilities, strengths, weaknesses",120.00
+17,Qualifications,National Matric qualification,South African (Grade 12) verification with either Umalusi or any of the various Provincials Department of Education,56.60
+18,Qualifications,National tertiary qualification (including NQR),South African Tertiary qualifications,55.33
+19,Qualifications,Short courses/certificates,"MIE also verifies short courses, diplomas and certificates by other educational institutions, whether formal or informal",74.16
+20,Qualifications,African/International qualification,MIE makes use of its many international relationships to verify any African or International qualifications,408.00
+21,FAIS,FAIS DoFA standard,All products approved by the FDB - current and historical,36.00
+22,FAIS,FAIS DoFA premium,"Current products ,including advice and intermediary date. Historical products ,including advice and intermediary date",72.00

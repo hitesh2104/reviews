@@ -1,0 +1,47 @@
+body1 {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#A6A6A7;
+text-align:justify;
+}
+
+#main_left {
+width: 900px;
+height:350px;
+
+}
+#main_left1 {
+width: 900px;
+height:200px;
+background: #d00000;
+border: 1px solid #e0e0e0;
+overflow: hidden;
+float: left;
+text-align:center;
+
+}
+
+* {
+margin: 0px;
+padding: 0px;
+}
+body,td,th { font-family: Arial, Helvetica, sans-serif;	font-size: 14px; color: #444; }
+body {
+text-align:justify;
+
+}
+.ft3{font-style:normal;font-weight:normal;font-size:50px;font-family:Arial;color:#d9d9d9;}
+.ft2{font-style:normal;font-weight:bold;font-size:20px;font-family:Calibri;color:#ffffff;}
+
+.tips {
+float: left;
+padding:0px;
+font-style:normal;font-weight:normal;font-family:Calibri;color:#000000;
+line-height: 25px;
+}
+.tips_img {
+padding-bottom:15px;
+font-weight:bold;font-size:25px;
+}
+
+.clear{ clear: both;}
